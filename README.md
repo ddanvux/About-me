@@ -1,29 +1,27 @@
 # About me
 
-
-# **Tam Dan VU**  
 **Data Analyst | Finance & Insurance | Risk & Claims Analytics**  
 
 📍 Paris, France  
 📧 danvt911@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/tdanvu/) | [GitHub](https://github.com/ddanvux/danvu.github.io)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tdanvu/) | [GitHub](https://ddanvux.github.io/portfolio/)  
 
 ---
 
 ## **👨‍💻 Technical Skills**  
-- **Programming**: Python, SQL, SAS, Google BigQuery  
-- **Data Visualization**: Tableau, QlikView, Qlik Sense, Google Data Studio, SAP BO  
-- **Automation & BI**: Dataiku, VBA, WinCSP (SFTP), Jira, FileZilla  
-- **Languages**: English (Fluent), French (Fluent), Vietnamese (Native)  
+- **Programming**: Python, SQL, SAS (Advanced), Google BigQuery  
+- **Data Visualization & BI**: Tableau, QlikView, Qlik Sense, Google Data Studio, SAP BO  
+- **Automation & Analytics**: Dataiku, VBA, WinCSP (SFTP), Jira, FileZilla  
 
----
-
-## **🎓 Education & Certifications**  
-🎓 **Master’s in Applied Methods in Statistics and Econometrics (MASERATI)** | Université Paris XII _(2019)_  
-🎓 **Bachelor’s in Economics & Management** | Université Paris XII _(2016)_  
 
 ✅ **SAS Certified Base Programmer for SAS 9**  
 ✅ **Dataiku Core Designer Certified**  
+
+---
+
+## **🎓 Education**  
+🎓 **Master’s in Applied Methods in Statistics and Econometrics (MASERATI)** | Université Paris XII _(2019)_  
+🎓 **Bachelor’s in Economics & Management** | Université Paris XII _(2016)_  
 
 ---
 
@@ -31,13 +29,13 @@
 
 ### **🔹 Data Analyst | GAN Assurance (Insurance & Finance Division)**  
 📅 *Jan 2023 – Present | Nanterre, France*  
-- **Risk & Claims Analytics**: Monitored and analyzed claims & financial performance, optimizing claims processing and cost estimation.  
-- **Actuarial & Profitability Analysis**: Built financial & actuarial reports on profitability, claims performance, and loss provisions.  
-- **Cross-Functional Collaboration**: Worked with Technical, Claims, Actuarial, and IT teams to improve risk monitoring.  
+- **Risk & Claims Analytics**: Managed and monitored claims & inventory databases: claim openings, closings, costs, and provisions.  
+- **Actuarial & Profitability Analysis**: Conducted financial, technical, and actuarial studies on GAN’s profitability and claims.  
+- **Cross-Functional Collaboration**: Worked with Technical, Claims, Actuarial, and IT teams to improve risk assessment.  
 - **Key Achievements**:  
-  ✅ Created an **expert database** to centralize claims assessments & policy monitoring.  
+  ✅ Developed an **expert database** to centralize claims assessments & policy monitoring.  
   ✅ Automated **major claims (CATNAT) reporting**, reducing reporting time by 40%.  
-  ✅ Designed **interactive dashboards** for claim costs & frequency, giving dynamic analysis for multiple insurance products.  
+  ✅ Designed **interactive dashboards** for claim costs & frequency, allowing flexible risk analysis by product & coverage.  
 - **Tools**: SAS, SQL, QlikView, Qlik Sense, Jira  
 
 ---
@@ -47,7 +45,7 @@
 - **Data-Driven Marketing**: Conducted customer segmentation, promotional impact analysis, and pricing strategy optimization for top retail & e-commerce clients.  
 - **Business Intelligence**: Built **targeting plans** and **automated reporting pipelines**, improving operational efficiency.  
 - **Key Achievements**:  
-  ✅ **Saved 50% work time** by automating reporting for **300+ reports monthly** across 250 suppliers.  
+  ✅ **Reduced reporting time by 50%** by automating **300+ reports monthly** across 250 suppliers.  
   ✅ **Increased buyer conversion by 25%**, contributing to **€1M revenue growth** in 2021.  
 - **Tools**: SAS, SQL Server, Google BigQuery, Tableau, VBA  
 
@@ -106,6 +104,6 @@
 
 ## **📣 Connect with Me!**  
 
-💡 **GitHub**: [github.com/yourgithubusername](https://github.com/ddanvux/danvu.github.io) _(Check out my latest projects!)_  
+💡 **GitHub**: [github.com/yourgithubusername](https://ddanvux.github.io/portfolio/) _(Check out my latest projects!)_  
 💡 **LinkedIn**: [linkedin.com/in/tdanvu](https://www.linkedin.com/in/tdanvu/) _(Let’s connect!)_  
 💡 **Email**: danvt911@gmail.com  
