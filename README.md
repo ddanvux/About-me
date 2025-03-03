@@ -1,67 +1,111 @@
 # About-me
 
 
-# **Data Analyst | Insurance & Finance Services**
+# **Tam Dan VU**  
+**Data Analyst | Finance & Insurance | Risk & Claims Analytics**  
 
-#### **Technical Skills**: Python, SAS, SQL, Google Big Query, Tableau, QlikView, Qlik Sense, SAP BO, Dataiku, VBA
+📍 Paris, France  
+📧 danvt911@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tdanvu/) | [GitHub](https://github.com/ddanvux/danvu.github.io)  
 
-## **Education**
-- **Master’s in Applied Methods in Statistics and Econometrics** | Université Paris XII (_2019_)
-- **Bachelor’s in Economics and Management** | Université Paris XII (_2016_)
+---
 
-## **Certifications**
-- **SAS Certified Base Programmer for SAS 9**
-- **Dataiku Core Designer Certified**
+## **👨‍💻 Technical Skills**  
+- **Programming**: Python, SQL, SAS, Google BigQuery  
+- **Data Visualization**: Tableau, QlikView, Qlik Sense, Google Data Studio, SAP BO  
+- **Automation & BI**: Dataiku, VBA, WinCSP (SFTP), Jira, FileZilla  
+- **Languages**: English (Fluent), French (Fluent), Vietnamese (Native)  
 
-## **Work Experience**
-### **Data Analyst @ GAN Assurance (Insurance / Financial Division) – Nanterre, FR (_Jan 2023 - Present_)**
-- Managed and monitored claims and inventory databases for key performance indicators, including opening, closing, costs, and provisions.
-- Conducted financial, technical, and actuarial analyses on GAN's profitability and claims.
-- Collaborated with Technical, Claims, Actuarial, and Information Systems departments to drive data-driven decision-making.
-- **Achievements**:
-  - Created an expert database to monitor expert policies: assessment, consolidation, and data processing.
-  - Developed monthly reports for major claims (CATNAT), tracking publication, opening, closing, delays, provisioning, expertise, and recovery.
-  - Designed interactive performance reports for claims cost and frequency, offering flexibility in selecting coverages, products (e.g., AUTO, MRHO), and exposure periods.
-- **Tools Used**: SAS, SQL, QlikView, Qlik Sense, FileZilla, Jira
+---
 
-### **Data Consultant @ NUMSIGHT CONSULTING – Boulogne-Billancourt, FR (_Oct 2020 – Oct 2022_)**
-- Conducted analyses for major clients such as Carrefour, Metro, Sephora, and Saint-Gobain to meet business needs (e.g., market segmentation, promotional optimization).
-- Built targeting plans, implemented controls, and assessed marketing campaign performance.
-- **Achievements**:
-  - Reduced work time by 50% through automation, generating over 300 reports for 250 suppliers per month.
-  - Identified high-potential audiences, leading to a 25% increase in buyer rates and €1M revenue growth in 2021.
-- **Tools Used**: SAS, SQL, Google Big Query, Tableau, VBA, WinCSP (SFTP)
+## **🎓 Education & Certifications**  
+🎓 **Master’s in Applied Methods in Statistics and Econometrics (MASERATI)** | Université Paris XII _(2019)_  
+🎓 **Bachelor’s in Economics & Management** | Université Paris XII _(2016)_  
 
-### **Data Analyst @ AIR FRANCE – Tremblay-en-France, FR (_Sept 2018 – Sept 2019_)**
-- Monitored CSAT and NPS performance using three major data domains, totaling 700+ variables per domain.
-- Implemented a customer feedback sentiment analysis project leveraging **Machine Learning and NLP**.
-- **Achievements**:
-  - Developed a Python-based textual data analysis application to improve customer sentiment analysis.
-  - Trained a team of three on the use of the text-mining tool for enhanced performance reporting.
-- **Tools Used**: SAS, Python, Dapresy, Spotfire, Proxem, SAP BO, VBA
+✅ **SAS Certified Base Programmer for SAS 9**  
+✅ **Dataiku Core Designer Certified**  
 
-### **Data Analyst @ MG3 (ATOODOG.FR) – Boulogne-Billancourt, FR (_Apr 2016 – Jun 2016_)**
-- Monitored digital KPIs and optimized SMO, SEO for better online visibility.
-- Managed transactions and stock for more than 8,000 references.
-- **Achievements**:
-  - Executed the WC2016 campaign, driving a 20% increase in average basket value and a 35% increase in visit rate.
-- **Tools Used**: Google Analytics, Mention, Affiliate, Magento, Semrush
+---
 
-## **Projects**
-### **Claims Data Analysis for Major Claims (CATNAT)**
-Developed a comprehensive dashboard for tracking major claims data (CATNAT), offering an interactive and flexible approach to monitor various metrics such as publication, opening, closing, delays, and recovery. 
-- **Technologies Used**: SAS, QlikView, Qlik Sense
-- **Objective**: To provide decision-makers with real-time insights into claims performance and enable faster response times.
+## **💼 Work Experience**  
 
-### **Automation of Reporting for Multiple Clients**
-Automated the reporting process for over 300 reports monthly, improving efficiency by 50%. This included generating customized reports on marketing campaigns and customer segmentation across various retail clients.
-- **Technologies Used**: SAS, SQL, Google Big Query, Tableau
-- **Objective**: To optimize reporting and reduce manual work, allowing more time for analysis and strategic decision-making.
+### **🔹 Data Analyst | GAN Assurance (Insurance & Finance Division)**  
+📅 *Jan 2023 – Present | Nanterre, France*  
+- **Risk & Claims Analytics**: Monitored and analyzed claims & financial performance, optimizing claims processing and cost estimation.  
+- **Actuarial & Profitability Analysis**: Built financial & actuarial reports on profitability, claims performance, and loss provisions.  
+- **Cross-Functional Collaboration**: Worked with Technical, Claims, Actuarial, and IT teams to improve risk monitoring.  
+- **Key Achievements**:  
+  ✅ Created an **expert database** to centralize claims assessments & policy monitoring.  
+  ✅ Automated **major claims (CATNAT) reporting**, reducing reporting time by 40%.  
+  ✅ Designed **interactive dashboards** for claim costs & frequency, giving dynamic analysis for multiple insurance products.  
+- **Tools**: SAS, SQL, QlikView, Qlik Sense, Jira  
 
-### **Customer Sentiment Analysis with Machine Learning**
-Developed a Python-based application for analyzing customer feedback using sentiment analysis techniques to identify key insights from open-ended responses.
-- **Technologies Used**: Python, Natural Language Processing (NLP)
-- **Objective**: To derive actionable insights from customer feedback, improving overall customer satisfaction.
+---
 
-## **Additional Skills**
-- **Languages**: English (Fluent), French (Fluent), Vietnamese (Native)
+### **🔹 Data Consultant | NUMSIGHT CONSULTING**  
+📅 *Oct 2020 – Oct 2022 | Boulogne-Billancourt, France*  
+- **Data-Driven Marketing**: Conducted customer segmentation, promotional impact analysis, and pricing strategy optimization for top retail & e-commerce clients.  
+- **Business Intelligence**: Built **targeting plans** and **automated reporting pipelines**, improving operational efficiency.  
+- **Key Achievements**:  
+  ✅ **Saved 50% work time** by automating reporting for **300+ reports monthly** across 250 suppliers.  
+  ✅ **Increased buyer conversion by 25%**, contributing to **€1M revenue growth** in 2021.  
+- **Tools**: SAS, SQL Server, Google BigQuery, Tableau, VBA  
+
+---
+
+### **🔹 Data Analyst | AIR FRANCE (CX Performance & Analytics)**  
+📅 *Sept 2018 – Sept 2019 | Tremblay-en-France, France*  
+- **Customer Insights & Sentiment Analysis**: Built NLP-based tools to extract insights from customer feedback.  
+- **CSAT & NPS Analytics**: Monitored and analyzed customer experience KPIs (700+ data variables).  
+- **Key Achievements**:  
+  ✅ Developed a **Python-based text-mining tool** for sentiment analysis on customer surveys.  
+  ✅ Trained a **3-person team** in advanced text analytics for customer feedback analysis.  
+- **Tools**: SAS, Python, Dapresy, Spotfire, SAP BO, VBA  
+
+---
+
+### **🔹 Data Analyst | MG3 (ATOODOG.FR) - E-commerce**  
+📅 *Apr 2016 – Jun 2016 | Boulogne-Billancourt, France*  
+- **Digital Analytics**: Managed digital KPIs, optimized SEO/SMO, and monitored e-commerce transactions.  
+- **Key Achievements**:  
+  ✅ Led **WC2016 campaign**, increasing **average order value by 20%** & boosting site traffic **by 35%**.  
+- **Tools**: Google Analytics, Semrush, Magento  
+
+---
+
+## **📊 Featured Projects**  
+
+### **📌 Risk & Claims Dashboard (Insurance Analytics)**  
+📌 **Technologies**: SAS, SQL, QlikView, Qlik Sense  
+- Designed an interactive **claims monitoring dashboard** tracking claim costs, loss frequencies, and provisions.  
+- Allowed filtering by **insurance products (Auto, Home, CATNAT, etc.)**, improving risk assessment.  
+
+---
+
+### **📌 Automated Marketing Reports for Retail Clients**  
+📌 **Technologies**: SAS, SQL, Google BigQuery, Tableau  
+- Automated **300+ reports monthly**, reducing manual reporting workload by **50%**.  
+- Helped retail clients optimize **campaign targeting, promotional performance, and segmentation strategies**.  
+
+---
+
+### **📌 NLP-Based Sentiment Analysis for Customer Feedback**  
+📌 **Technologies**: Python, Natural Language Processing (NLP)  
+- Built a **text-mining tool** to analyze **customer sentiment** from feedback surveys.  
+- Increased **Air France’s customer insights accuracy**, leading to **better CX strategy decisions**.  
+
+---
+
+## **🚀 How I’m Growing My Expertise**  
+
+📌 **Insurance & Risk Analytics Specialization**: Deepening my knowledge in **claims analytics, loss modeling, and actuarial data science**.  
+📌 **Advanced Python & AI Automation**: Exploring **ML-based risk modeling** & automation in finance.  
+📌 **Kaggle & GitHub Projects**: Contributing to **open-source risk analytics & finance projects**.  
+
+---
+
+## **📣 Connect with Me!**  
+
+💡 **GitHub**: [github.com/yourgithubusername](https://github.com/ddanvux/danvu.github.io) _(Check out my latest projects!)_  
+💡 **LinkedIn**: [linkedin.com/in/tdanvu](https://www.linkedin.com/in/tdanvu/) _(Let’s connect!)_  
+💡 **Email**: danvt911@gmail.com  
