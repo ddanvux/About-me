@@ -1,5 +1,106 @@
-title: Dan VU
+#title: Dan VU
 #logo: /assets/img/headshot_circle.png
 #description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+#show_downloads: true
+#theme: jekyll-theme-minimal
+
+# _config.yml for your GitHub Pages Portfolio
+
+# Site settings
+title: "Tam Dan VU - Data Analyst | Finance & Insurance | Risk & Claims Analytics"   # Portfolio Name
+description: "Data Analyst in Finance & Insurance | Specializing in Risk & Claims Analytics | Python, SQL, SAS, Tableau"  # Site Description
+url: "https://ddanvux.github.io/portfolio"   # Your GitHub Pages URL
+baseurl: ""  # Leave this empty if it's your personal site
+email: "danvt911@gmail.com"  # Your email
+github_username: "ddanvux"  # Your GitHub username
+linkedin: "https://www.linkedin.com/in/tdanvu/"   # LinkedIn profile URL
+twitter: "https://twitter.com/yourtwitterhandle"  # Twitter profile (optional)
+
+# Social Media Links
+social_links:
+  twitter: "https://twitter.com/yourtwitterhandle"
+  linkedin: "https://www.linkedin.com/in/tdanvu/"
+  github: "https://github.com/ddanvux"
+
+# Navigation Menu
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Content settings
+author: "Tam Dan VU"  # Author name (visible in footer)
+theme: "minima"  # Choose a clean theme (you can customize it later)
+paginate: 5  # Number of posts per page (adjust as needed)
+
+# Google Analytics (optional)
+google_analytics:
+  tracking_id: "UA-XXXXX-Y"  # Replace with your own tracking ID if you have one
+
+# SEO settings
+seo:
+  title: "Tam Dan VU - Data Analyst Portfolio"
+  description: "Data Analyst with expertise in Finance & Insurance. Focused on Risk & Claims Analytics, and experienced with Python, SQL, SAS, Tableau."
+  keywords: "Data Analyst, Finance Analytics, Risk Analytics, Claims Analytics, Python, SQL, Tableau, SAS"
+  author: "Tam Dan VU"
+  og_image: "/assets/images/og-image.png"  # Path to your Open Graph image
+  twitter_card: "summary_large_image"  # "summary" or "summary_large_image"
+
+# Build settings
+markdown: kramdown  # Default markdown processor
+highlighter: rouge  # Syntax highlighter for code snippets
+
+# Custom stylesheets and scripts (optional)
+stylesheets:
+  - "assets/css/custom.css"  # If you add a custom CSS file, link it here
+
+# Portfolio Projects Section
+projects:
+  - title: "Risk & Claims Dashboard (Insurance Analytics)"
+    description: "Designed an interactive dashboard to track claim costs, loss frequencies, and provisions for better risk assessment."
+    url: "/projects/risk-claims-dashboard/"
+    technologies: "SAS, SQL, QlikView, Qlik Sense"
+    image: "/assets/images/project1.png"  # Project image (replace with your own)
+
+  - title: "Automated Marketing Reports for Retail Clients"
+    description: "Automated 300+ reports monthly, reducing reporting time by 50% and optimizing promotional performance for clients."
+    url: "/projects/automated-marketing-reports/"
+    technologies: "SAS, SQL, Google BigQuery, Tableau"
+    image: "/assets/images/project2.png"  # Project image (replace with your own)
+
+  - title: "NLP-Based Sentiment Analysis for Customer Feedback"
+    description: "Built a Python-based text-mining tool for sentiment analysis of customer feedback surveys to improve customer experience."
+    url: "/projects/nlp-sentiment-analysis/"
+    technologies: "Python, Natural Language Processing (NLP)"
+    image: "/assets/images/project3.png"  # Project image (replace with your own)
+
+# Optional Blog Section (if you're blogging)
+blog:
+  title: "My Data Analytics Blog"
+  subtitle: "Insights on Risk Analytics, Data Visualization, and Financial Analysis"
+  posts_per_page: 5  # Adjust the number of posts per page as needed
+
+# Excluded files from the site
+exclude:
+  - "README.md"  # Exclude README.md file from being displayed
+
+# Sitemap settings (optional)
+sitemap:
+  exclude:
+    - "/drafts/*"  # Exclude drafts folder from the sitemap
+    - "/assets/*"  # Exclude assets folder from the sitemap
+
+# RSS feed settings (optional)
+feed:
+  path: "feed.xml"  # Path to RSS feed for blog posts
+
+# Additional configuration
+custom_js:
+  - "assets/js/custom.js"  # If you have any custom JavaScript for the site
